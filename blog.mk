@@ -23,3 +23,8 @@ console.log(a)
 int b = 2
 
 ```
+这是一段连接
+[我的博客](https://github.com/codenotkey/blog-test/new/main)
+
+这是图片
+![图片](1.jpg)
